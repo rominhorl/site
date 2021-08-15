@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Hahmlet", serif;
+}
+
+p {
+  color: #eaf6f6;
+}
+
+h1 {
+  font-family: "Caveat", cursive;
+  font-size: 100px;
+  margin: 0;
+}
+
+h2 {
+  color: #f7ee7f;
+  font-family: "Nunito", sans-serif;
+  margin: 0;
+}
+
+h3 {
+  color: #f7ee7f;
+  font-family: "Nunito", sans-serif;
+}
+
+hr {
+  border: 0;
+  border-bottom: 10px;
+  border-style: dotted;
+  border-color: #eaf6f6;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.container-1 {
+  background-color: #7ad7ee;
+  padding-top: 100px;
+}
+
+.presentation {
+  color: #eaf6f6;
+}
+
+.ocean-floor {
+  background-image: url(../images/ocean-floor.png);
+  background-size: 300px;
+  height: 240px;
+}
+
+.birds-1 {
+  height: 50px;
+  position: relative;
+  right: 150px;
+}
+
+.birds-2 {
+  height: 50px;
+  position: relative;
+  left: 210px;
+  bottom: 150px;
+}
+
+.container-2 {
+  background-color: #c6805d;
+}
+
+.my-photo {
+  border-radius: 100%;
+  height: 300px;
+  margin-top: 30px;
+}
+
+.shell-1 {
+  height: 50px;
+  position: relative;
+  right: 150px;
+  bottom: 200px;
+}
+
+.shell-2 {
+  height: 50px;
+  position: relative;
+  left: 200px;
+  bottom: 50px;
+}
+
+.hello-text {
+  width: 50%;
+  margin: 30px auto;
+}
+
+.container-3 {
+  background-image: linear-gradient(#c6805d, #705147);
+  padding-top: 30px;
+}
+
+.web {
+  height: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.plant {
+  height: 250px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-text {
+  width: 50%;
+  margin: 0 auto;
+  padding: 50px 0 100px 0;
+  text-align: left;
+}
+
+.container-4 {
+  padding-top: 50px;
+  background-color: #705147;
+}
+
+.cave {
+  background-image: url(../images/cave.png);
+  background-size: 300px;
+  background-color: #565554;
+  height: 300px;
+}
+
+.container-5 {
+  background-color: #e86c16;
+}
+
+.contact-text {
+  padding-top: 50px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.button-contact {
+  background: #f7ee7f;
+  background-image: -webkit-linear-gradient(top, #f7ee7f, #a59f4f);
+  background-image: -moz-linear-gradient(top, #f7ee7f, #a59f4f);
+  background-image: -ms-linear-gradient(top, #f7ee7f, #a59f4f);
+  background-image: -o-linear-gradient(top, #f7ee7f, #a59f4f);
+  background-image: -webkit-gradient(to bottom, #f7ee7f, #a59f4f);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 15px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button-contact:hover {
+  border: solid #337fed 1px;
+  background: #7ad7ee;
+  background-image: -webkit-linear-gradient(top, #7ad7ee, #7ad7ee);
+  background-image: -moz-linear-gradient(top, #7ad7ee, #7ad7ee);
+  background-image: -ms-linear-gradient(top, #7ad7ee, #7ad7ee);
+  background-image: -o-linear-gradient(top, #7ad7ee, #7ad7ee);
+  background-image: -webkit-gradient(to bottom, #7ad7ee, #7ad7ee);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.link-icon {
+  height: 50px;
+}
